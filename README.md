@@ -4,6 +4,8 @@ This project focuses on the fine-grained classification of **Fresh Fruit Bunches
 
 ---
 
+(Please notice that this work is a preview only)
+
 ## Project Highlights
 
 - **Dataset**: A curated dataset of oil palm Fresh Fruit Bunch images labeled by ripeness or class.
